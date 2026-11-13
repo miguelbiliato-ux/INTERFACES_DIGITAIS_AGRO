@@ -1,0 +1,25 @@
+header{
+            background-color: rgb(0, 0, 0);
+            color: rgb(253, 253, 253);
+            text-align: center;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 16px;
+            border: 10px  solid rgb(255, 255, 255) ;
+        }
+        main{
+            background-color: rgb(3, 3, 3);
+            color: rgb(248, 248, 248);
+            text-align: center;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 16px;
+            display: flex;
+        }
+        img{
+            width: 200px;
+            height: auto;
+        }
+      .artigo-autor {
+font-weight: bold;
+}
